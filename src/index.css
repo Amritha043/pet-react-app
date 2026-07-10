@@ -2,6 +2,7 @@
   background: linear-gradient(135deg, #F4C430, #1C1C1C);
   padding: 30px;
   border-radius: 20px;
+  margin-top: 20px;
 }
 .navbar-nav{
     margin:0 auto;
