@@ -21,25 +21,25 @@ const NavigationBar = () => {
             <li className="nav-item">
               
               <Link className="nav-link " to="/">
-                ADD HOUSEBOAT
+                ADD PET
               </Link>
             </li>
 
             <li className="nav-item">
               <Link className="nav-link " to="/delete">
-                DELETE HOUSEBOAT
+                DELETE PET
               </Link>
             </li>
 
             <li className="nav-item ">
               <Link className="nav-link " to="/view">
-                VIEW HOUSEBOAT
+                VIEW PET
               </Link>
             </li>
 
             <li className="nav-item">
               <Link className="nav-link " to="/search">
-                SEARCH HOUSEBOAT
+                SEARCH PET
               </Link>
             </li>
           </ul>
