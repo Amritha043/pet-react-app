@@ -20,25 +20,25 @@ const NavigationBar = () => {
           <ul className="navbar-nav">
             <li className="nav-item">
               
-              <Link className="nav-link text-light" to="/">
+              <Link className="nav-link " to="/">
                 ADD HOUSEBOAT
               </Link>
             </li>
 
             <li className="nav-item">
-              <Link className="nav-link text-light" to="/delete">
+              <Link className="nav-link " to="/delete">
                 DELETE HOUSEBOAT
               </Link>
             </li>
 
             <li className="nav-item ">
-              <Link className="nav-link text-light" to="/view">
+              <Link className="nav-link " to="/view">
                 VIEW HOUSEBOAT
               </Link>
             </li>
 
             <li className="nav-item">
-              <Link className="nav-link text-light" to="/search">
+              <Link className="nav-link " to="/search">
                 SEARCH HOUSEBOAT
               </Link>
             </li>
