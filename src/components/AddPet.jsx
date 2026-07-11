@@ -47,7 +47,7 @@ const AddPet = () => {
                             <input type="text" className="form-control" />
                         </div>
                         <div className="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
-                             <label htmlFor="" className="form-label me-3 ms-1">Gender   </label>
+                             <label htmlFor="" className="form-label me-3 ms-1"><b>Gender</b>   </label>
                                 <input type="radio" name="radio" id="radio1" checked/>
                                 <label for="radio1" class="me-3 ms-1">Male</label>
 
